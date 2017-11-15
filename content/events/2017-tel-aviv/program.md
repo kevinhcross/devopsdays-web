@@ -66,7 +66,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2017-tel-aviv/program/corey-quinn">Keynote 2: <strong>Corey Quinn</strong></a>
+    <a href="/events/2017-tel-aviv/program/rami-goldratt">Keynote 2: <strong>Rami Goldratt</strong> - Coming up with the next Business Innovation Breakthrough</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -125,7 +125,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2017-tel-aviv/program/guido-laquinti">Distributed Teams: Scaling Operations Around the World <br/> <strong>Guido Iaquinti</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2017-tel-aviv/program/daniel-borovsky">Building high scale system using serverless architecture for a burning man event <br/> <strong>Daniel Borovsky</strong></a></div>
+    <a href="/events/2017-tel-aviv/program/jonathan-zenou">Building high scale system using serverless architecture for a burning man event <br/> <strong>Jonathan Zenou</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
     <a href="/events/2017-tel-aviv/program/phillip-krenn">Workshop: Machine Learning without the Hype (continued) <br/> <strong>Philipp Krenn</strong></a></div>
 </div> <!-- end timeslot div -->
@@ -193,7 +193,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2017-tel-aviv/program/rami-goldratt">Keynote 2: <strong>Rami Goldratt</strong> - Coming up with the next Business Innovation Breakthrough</a>
+    <a href="/events/2017-tel-aviv/program/corey-quinn">Keynote 2: <strong>Corey Quinn</strong> - Inventing Yourself: The Musings of an Assistant Regional Thought Manager</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -229,7 +229,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2017-tel-aviv/program/joe-smith">A Culture of Automation <br/> <strong>Joe Smith</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2017-tel-aviv/program/elad-amit">1 cloud, 2 clouds, 3 clouds, tons <br/> <strong>Elad Amit</strong></a></div>
+    <a href="/events/2017-tel-aviv/program/nir-cohen-nati-shalom">1 cloud, 2 clouds, 3 clouds, tons <br/> <strong>Nir Cohen and Nati Shalom</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop (continued) <br/> <strong>Ran Leibman</strong></a></div>
 </div> <!-- end timeslot div -->
@@ -255,7 +255,8 @@ heading = "devopsdays Tel Aviv - Program"
     <a href="/events/2017-tel-aviv/program/max-timchenko">How to hire a SRE in 5 minutes <strong>Max Timchenko</strong> </a><br/>
     <a href="/events/2017-tel-aviv/program/lidor-gerstel">Container Orchestration with Rancher <strong>Lidor Gerstel</strong> </a><br/>
     <a href="/events/2017-tel-aviv/program/keren-barzelai">Fake it till you make it <strong>Keren Barzelai</strong> </a><br/>
-    <a href="/events/2017-tel-aviv/program/corey-quinn">Death of an Enterprise Software Salesman <strong>Corey Quinn</strong> </a><br/>
+    <a href="/events/2017-tel-aviv/program/sharone-zitzman">When Your Open Source Project Stops Being Cool <strong>Sharone Zitzman</strong> </a><br/>
+    <a href="/events/2017-tel-aviv/program/corey-quinn">Death of an Enterprise Software Salesman <strong>Corey Quinn</strong> </a>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop (continued) <br/> <strong>Ran Leibman</strong></a></div>
